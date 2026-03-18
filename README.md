@@ -16,6 +16,4 @@ The questions are based on real-world problems and topics I've encountered in my
  
 I personally learned a lot putting this together. Open to suggestions if you think something can be added or improved.
  
-## License
- 
-Feel free to use this as a learning resource. Contributions and feedback are welcome — open an issue or submit a PR.
+Contributions and feedback are welcome — open an issue or submit a PR.
