@@ -12,7 +12,7 @@ A comprehensive React Native handbook covering **54 in-depth topics** — from f
  
 ## About
  
-The questions are based on real-world problems and topics I've encountered in my day-to-day work, interview questions that i have been asked and things I genuinely wanted to understand better. The answers were researched using AI (Claude Opus 4.6 Deep Research), synthesizing best practices, approaches, and architectural decisions described by engineers from leading React Native teams — Meta, Callstack, Software Mansion, and other top companies in the ecosystem.
+The questions are based on real-world problems and topics I've encountered in my day-to-day work, interview questions that i have been asked and things I genuinely wanted to understand better. The answers were researched using AI (Claude Opus 4.6 Research), synthesizing best practices, approaches, and architectural decisions described by engineers from leading React Native teams — Meta, Callstack, Software Mansion, and other top companies in the ecosystem.
  
 I personally learned a lot putting this together. Open to suggestions if you think something can be added or improved.
  
